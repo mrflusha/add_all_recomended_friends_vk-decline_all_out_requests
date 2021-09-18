@@ -4,7 +4,7 @@ For add recomended friend in vk:
 <li>Copy all from <a href="add_recomended_friends.js">script</a></li>
 <li>press ctrl+shift+I</li>
 <li>press enter
-<br><p color = 'red'>if need confirm, type confirm
+<br><p color = 'red'>if need browser console confirm, type confirm
   </p></li>
 </ol>
 
@@ -16,6 +16,6 @@ Decline all requests from you in friends vk:
 <li>Copy all from <a href="script.js">script</a></li>
 <li>press ctrl+shift+I</li>
 <li>press enter
-<br>if need confirm, type confirm
+<br>if need browser console confirm, type confirm
 </li>
 </ol>
