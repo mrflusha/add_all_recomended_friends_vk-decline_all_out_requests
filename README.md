@@ -1,4 +1,4 @@
-fror add recomended friend in vk:
+For add recomended friend in vk:
 <ol>
 <li><a href="https://vk.com/friends?act=find">This vk page</a></li>
 <li>Copy all from <a href="add_recomended_friends.js">script</a></li>
