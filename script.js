@@ -1,4 +1,4 @@
-var timer = 10000
+var timer = 1000
 var decline_friend = document.querySelectorAll("[id^= friends_deny_request_");
 
 (async() => {for (var i = 0; i <= decline_friend.length; i++){
